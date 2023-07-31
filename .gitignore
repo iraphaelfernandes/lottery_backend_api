@@ -1,0 +1,43 @@
+# Node.js
+node_modules/
+dist/
+
+# macOS
+.DS_Store
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor-specific
+.vscode/
+.idea/
+*.iml
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependency directories
+.pnpm
+.pnp
+
+# Build system cache
+.nuxt
+
+# Miscellaneous
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+/yarn.lock
+/lock-verify.json
+
+# Next.js
+.next/
+out/
+.build/
